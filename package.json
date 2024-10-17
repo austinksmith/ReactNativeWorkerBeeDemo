@@ -27,7 +27,7 @@
     "eslint": "^8.19.0",
     "jest": "^29.6.3",
     "prettier": "2.8.8",
-    "react-native-workerbee": "git+https://github.com/austinksmith/react-native-workerbee.git#master",
+    "react-native-workerbee": "git+https://github.com/austinksmith/react-native-workerbee.git#673765e28ebb919f4339d9f21ab8fffd9175b813",
     "react-test-renderer": "18.3.1",
     "typescript": "5.0.4"
   },
